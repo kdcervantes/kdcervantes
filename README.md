@@ -1,4 +1,4 @@
-# Hello, I am Katheryn Cervantes.
+# Howdy, I am Katheryn Cervantes.
 <a href="https://www.linkedin.com/in/katheryn-cervantes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a second-year CSU Global student pursuing my Bachelor of Science in Information Technology (BSIT), specializing in Cloud Computing and Virtualization. After 15 years in the Property Management Industry, I have made the exciting decision to transition into IT. I will move from building, protecting, and maintaining physical assets to doing the same for digital assets. 
